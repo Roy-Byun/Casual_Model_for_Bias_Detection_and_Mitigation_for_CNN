@@ -108,24 +108,10 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 Don't forget to give the project a star! Thanks again!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Top contributors:
-
-<a href="https://github.com/Roy-Byun/IDC2808-Casual-Model-for-Bias-Detection-and-Mitigation-for-CNN/graphs/contributors">
-</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## Contact
 
-Your Name - [@Roy-Byun](https://github.com/Roy-Byun) - your_email@example.com
+Your Name - [@Roy-Byun](https://github.com/Roy-Byun) - roybyun722@gmail.com
 
 Project Link: [https://github.com/Roy-Byun/IDC2808-Casual-Model-for-Bias-Detection-and-Mitigation-for-CNN](https://github.com/Roy-Byun/IDC2808-Casual-Model-for-Bias-Detection-and-Mitigation-for-CNN)
 
