@@ -69,13 +69,13 @@ To get a local copy up and running, follow these steps.
 1. **Unzip the FairFace Dataset**
 
    Unzip the `archive.zip` file located in the `Data` folder. The unzipped content `FairFace` folder should contain:
-   """
+   ```
    FairFace/
    ├── train/
    ├── val/
    ├── train_labels.csv
    └── val_labels.csv
-   """
+   ```
 3. **Run Data Preparation**
 
 Run the `Data_Preparation.ipynb` notebook (written in Python). This notebook processes the dataset and outputs several CSV files, which can be found in the `Output` folder:
