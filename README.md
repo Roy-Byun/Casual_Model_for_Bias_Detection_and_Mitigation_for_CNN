@@ -58,7 +58,14 @@ It is **strongly recommended** to run this project using Google Colab Pro+ due t
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
+#### Download data from HuggingFace FariFace Dataset. 
+Link: https://huggingface.co/datasets/HuggingFaceM4/FairFace
+Using the following code block:
+```
+from datasets import load_dataset
 
+ds = load_dataset("HuggingFaceM4/FairFace", "0.25")
+```
 - Google Colab Pro+ account (strongly recommended)
 - Python (for running data preparation)
 - R (for running the causal model)
