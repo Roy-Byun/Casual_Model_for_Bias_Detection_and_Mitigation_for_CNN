@@ -41,6 +41,8 @@ This project aims to detect and mitigate bias in Convolutional Neural Networks (
 
 It is **strongly recommended** to run this project using Google Colab Pro+ due to the high computing power required for dataset preparation.
 
+Project Demo Available in: [Youtube](https://youtu.be/o8R9iFYKmA4)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
